@@ -24,18 +24,23 @@ High-performing creators, students, and professionals suffer from **app fragment
 ### 1. Unified Command Dashboard
 ![NexusFlow Command Dashboard](./src/assets/images/nexusflow_dashboard_preview_1785009037690.jpg)
 *Interactive overview displaying habit completion rates, task velocity, study metrics, and quick action controls.*
+<img width="1353" height="633" alt="dashboard png" src="https://github.com/user-attachments/assets/e43cf1c7-4b6b-4ae6-b118-0e9741ea0b1e" />
+<img width="720" height="1459" alt="mobile png login page" src="https://github.com/user-attachments/assets/30444c89-1424-4eb4-9687-8f31f0778387" />
 
 ---
 
 ### 2. Multi-Persona AI Assistant
 ![NexusFlow AI Assistant Interface](./src/assets/images/nexusflow_ai_assistant_preview_1785009054507.jpg)
 *Dedicated AI personas powered by Gemini 3.6 Flash providing tailored coaching, academic tutoring, focus exercises, and spiritual guidance.*
+<img width="1355" height="638" alt="AI asistant workflow png" src="https://github.com/user-attachments/assets/02ea866e-5e90-4201-a54d-67cefac20c55" />
+
 
 ---
 
 ### 3. Academic Study Suite & Habit Matrix
 ![NexusFlow Study & Habit Engine](./src/assets/images/nexusflow_study_and_habits_preview_1785009073345.jpg)
 *AI-generated revision flashcards, active quizzes, and weekly habit streak trackers.*
+<img width="1344" height="645" alt="AI study hub workflow png" src="https://github.com/user-attachments/assets/0ac0ed9e-724c-4987-a1d9-6133b6a4b898" />
 
 ---
 
