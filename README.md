@@ -25,10 +25,14 @@
 
 ```
 /screenshots
-    ├── home.png
-    ├── dashboard.png
-    ├── workflow.png
-    └── mobile.png
+    ├── home.png (<img width="1353" height="633" alt="Screenshot 2026-07-25 233022" src="https://github.com/user-attachments/assets/e276273e-1031-4262-8809-6a69aaacdbf5" />
+)
+    ├── dashboard.png (<img width="1355" height="638" alt="Screenshot 2026-07-25 233813" src="https://github.com/user-attachments/assets/d0796091-63e2-40af-8f76-cfcd226e8dce" />
+)
+    ├── workflow.png (<img width="1344" height="645" alt="Screenshot 2026-07-25 234015" src="https://github.com/user-attachments/assets/21f82e16-4c91-4ccf-a78d-9fe890e89427" />
+)
+    └── mobile.png (<img width="720" height="1459" alt="WhatsApp Image 2026-07-25 at 11 36 44 PM" src="https://github.com/user-attachments/assets/ed6d63f3-f8e7-436e-a78d-17fdd4f1244b" />
+)
 ```
 
 ---
